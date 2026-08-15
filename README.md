@@ -1,2 +1,2 @@
-# vgnt
+# web technology learning
 
